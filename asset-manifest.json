@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/React-Blog-App/static/css/main.90af10ca.chunk.css",
-    "main.js": "/React-Blog-App/static/js/main.9d9bd53a.chunk.js",
-    "main.js.map": "/React-Blog-App/static/js/main.9d9bd53a.chunk.js.map",
-    "runtime-main.js": "/React-Blog-App/static/js/runtime-main.57443682.js",
-    "runtime-main.js.map": "/React-Blog-App/static/js/runtime-main.57443682.js.map",
-    "static/js/2.f8a1786d.chunk.js": "/React-Blog-App/static/js/2.f8a1786d.chunk.js",
-    "static/js/2.f8a1786d.chunk.js.map": "/React-Blog-App/static/js/2.f8a1786d.chunk.js.map",
-    "index.html": "/React-Blog-App/index.html",
-    "static/css/main.90af10ca.chunk.css.map": "/React-Blog-App/static/css/main.90af10ca.chunk.css.map",
-    "static/js/2.f8a1786d.chunk.js.LICENSE.txt": "/React-Blog-App/static/js/2.f8a1786d.chunk.js.LICENSE.txt",
-    "static/media/adventure.b660524e.jpg": "/React-Blog-App/static/media/adventure.b660524e.jpg",
-    "static/media/latestArticles.d45c4597.jpg": "/React-Blog-App/static/media/latestArticles.d45c4597.jpg",
-    "static/media/nature.0c60b574.jpg": "/React-Blog-App/static/media/nature.0c60b574.jpg",
-    "static/media/natures.45454429.jpg": "/React-Blog-App/static/media/natures.45454429.jpg",
-    "static/media/react.972bdb50.png": "/React-Blog-App/static/media/react.972bdb50.png",
-    "static/media/reactContent.d0d49c45.jpg": "/React-Blog-App/static/media/reactContent.d0d49c45.jpg",
-    "static/media/topStory.0f68a6d4.jpg": "/React-Blog-App/static/media/topStory.0f68a6d4.jpg"
+    "main.css": "/static/css/main.49fba942.chunk.css",
+    "main.js": "/static/js/main.ec01f78f.chunk.js",
+    "main.js.map": "/static/js/main.ec01f78f.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.31e63aa8.js",
+    "runtime-main.js.map": "/static/js/runtime-main.31e63aa8.js.map",
+    "static/js/2.bc2ab321.chunk.js": "/static/js/2.bc2ab321.chunk.js",
+    "static/js/2.bc2ab321.chunk.js.map": "/static/js/2.bc2ab321.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.49fba942.chunk.css.map": "/static/css/main.49fba942.chunk.css.map",
+    "static/js/2.bc2ab321.chunk.js.LICENSE.txt": "/static/js/2.bc2ab321.chunk.js.LICENSE.txt",
+    "static/media/adventure.b660524e.jpg": "/static/media/adventure.b660524e.jpg",
+    "static/media/latestArticles.d45c4597.jpg": "/static/media/latestArticles.d45c4597.jpg",
+    "static/media/nature.0c60b574.jpg": "/static/media/nature.0c60b574.jpg",
+    "static/media/natures.45454429.jpg": "/static/media/natures.45454429.jpg",
+    "static/media/react.972bdb50.png": "/static/media/react.972bdb50.png",
+    "static/media/reactContent.d0d49c45.jpg": "/static/media/reactContent.d0d49c45.jpg",
+    "static/media/topStory.0f68a6d4.jpg": "/static/media/topStory.0f68a6d4.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.57443682.js",
-    "static/js/2.f8a1786d.chunk.js",
-    "static/css/main.90af10ca.chunk.css",
-    "static/js/main.9d9bd53a.chunk.js"
+    "static/js/runtime-main.31e63aa8.js",
+    "static/js/2.bc2ab321.chunk.js",
+    "static/css/main.49fba942.chunk.css",
+    "static/js/main.ec01f78f.chunk.js"
   ]
 }
